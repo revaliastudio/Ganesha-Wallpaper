@@ -1,705 +1,695 @@
 {
-	"Ads": [
-		{
-			"select_main_ads": "ADMOB",
-			"select_backup_ads": "",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
-			"main_ads_natives": "",
-			"backup_ads_banner": "",
-			"backup_ads_intertitial": "",
-			"backup_ads_rewards": "",
-			"backup_ads_natives": "",
-			"open_ads_admob": "",
-			"open_ads_alien": "",
-			"open_ads_max": "1",
-			"interval_intertitial": 5,
-			"initialize_sdk": "107355779",
-			"initialize_sdk_backup_ads": "",
-			"high_paying_keyword_1": "",
-			"high_paying_keyword_2": "",
-			"high_paying_keyword_3": "",
-			"high_paying_keyword_4": "",
-			"high_paying_keyword_5": "",
-			"status_app": "0",
-			"link_redirect": "https://"
-		}
-	],
-	"More": [
-		{
-			"id": 1,
-			"title": "judul",
-			"image": "linkgambar",
-			"link": "link"
-		}
-	],
-	"Categories": [
-		{
-			"id": 1,
-			"name_category": "Ganesha",
-			"image": "https://i.pinimg.com/564x/c8/15/08/c81508a02a1a2fa6827faff9623736e1.jpg"
-		}
-	],
-	"Data": [
-		{
-			"id": 1,
-			"name_category": "Ganesha",
-			"title": "1",
-			"image": "https://i.pinimg.com/564x/78/a9/95/78a995321014eb7f1780bff962870f63.jpg",
-			"lock": true
-		},
-		{
-			"id": 2,
-			"name_category": "Ganesha",
-			"title": "2",
-			"image": "https://i.pinimg.com/564x/75/a6/fe/75a6fe4e800452891980b861620f7751.jpg",
-			"lock": true
-		},
-		{
-			"id": 3,
-			"name_category": "Ganesha",
-			"title": "3",
-			"image": "https://i.pinimg.com/564x/c6/de/38/c6de3849b982ca1db92c4d40985e43b1.jpg",
-			"lock": true
-		},
-		{
-			"id": 4,
-			"name_category": "Ganesha",
-			"title": "4",
-			"image": "https://i.pinimg.com/564x/7d/50/81/7d5081862f785548a54a048621a31f6c.jpg",
-			"lock": true
-		},
-		{
-			"id": 5,
-			"name_category": "Ganesha",
-			"title": "5",
-			"image": "https://i.pinimg.com/564x/08/9a/5e/089a5ef26fb0039b85d4c948f1b9dc64.jpg",
-			"lock": true
-		},
-		{
-			"id": 6,
-			"name_category": "Ganesha",
-			"title": "6",
-			"image": "https://i.pinimg.com/564x/96/1c/1d/961c1d78dd8e9ea010e201002e062e66.jpg",
-			"lock": true
-		},
-		{
-			"id": 7,
-			"name_category": "Ganesha",
-			"title": "7",
-			"image": "https://i.pinimg.com/736x/1e/e9/f9/1ee9f9dc1a9f70475dc422e29c6b2dc8.jpg",
-			"lock": true
-		},
-		{
-			"id": 8,
-			"name_category": "Ganesha",
-			"title": "8",
-			"image": "https://i.pinimg.com/564x/fd/d2/47/fdd247e818bd84155c6eba097025686e.jpg",
-			"lock": true
-		},
-		{
-			"id": 9,
-			"name_category": "Ganesha",
-			"title": "9",
-			"image": "https://i.pinimg.com/564x/2f/dc/81/2fdc81d63aed9618de19fc88df4961e1.jpg",
-			"lock": true
-		},
-		{
-			"id": 10,
-			"name_category": "Ganesha",
-			"title": "10",
-			"image": "https://i.pinimg.com/564x/e3/eb/89/e3eb8929f92a6c7a5533a3077c4eaa88.jpg",
-			"lock": true
-		},
-		{
-			"id": 11,
-			"name_category": "Ganesha",
-			"title": "11",
-			"image": "https://i.pinimg.com/736x/63/78/c1/6378c159b6786db15779e2de6602485e.jpg",
-			"lock": true
-		},
-		{
-			"id": 12,
-			"name_category": "Ganesha",
-			"title": "12",
-			"image": "https://i.pinimg.com/564x/e9/ec/63/e9ec63780506fdc87fe2314e1f4d0e17.jpg",
-			"lock": true
-		},
-		{
-			"id": 13,
-			"name_category": "Ganesha",
-			"title": "13",
-			"image": "https://i.pinimg.com/564x/b1/bb/b2/b1bbb254cb7f8bd983c1a35f82dba271.jpg",
-			"lock": true
-		},
-		{
-			"id": 14,
-			"name_category": "Ganesha",
-			"title": "14",
-			"image": "https://i.pinimg.com/564x/06/fe/2d/06fe2d7bdddc4f42e70f468e1147f1a2.jpg",
-			"lock": true
-		},
-		{
-			"id": 15,
-			"name_category": "Ganesha",
-			"title": "15",
-			"image": "https://i.pinimg.com/564x/33/56/20/335620ae468c40755124737a255ab1fa.jpg",
-			"lock": true
-		},
-		{
-			"id": 16,
-			"name_category": "Ganesha",
-			"title": "16",
-			"image": "https://i.pinimg.com/564x/1f/ce/37/1fce37015dd1f197b76bfc25afe1aea7.jpg",
-			"lock": true
-		},
-		{
-			"id": 17,
-			"name_category": "Ganesha",
-			"title": "17",
-			"image": "https://i.pinimg.com/564x/76/58/e6/7658e68528620508ed02b0769ce2a86f.jpg",
-			"lock": true
-		},
-		{
-			"id": 18,
-			"name_category": "Ganesha",
-			"title": "18",
-			"image": "https://i.pinimg.com/564x/26/cb/5f/26cb5f607d58780bc862b254373bf7f1.jpg",
-			"lock": true
-		},
-		{
-			"id": 19,
-			"name_category": "Ganesha",
-			"title": "19",
-			"image": "https://i.pinimg.com/736x/b0/a3/df/b0a3df56c7e8e2ed76f484e0599b82fe.jpg",
-			"lock": true
-		},
-		{
-			"id": 20,
-			"name_category": "Ganesha",
-			"title": "20",
-			"image": "https://i.pinimg.com/564x/e5/2b/63/e52b63a86bd140683806235aed81cdda.jpg",
-			"lock": true
-		},
-		{
-			"id": 21,
-			"name_category": "Ganesha",
-			"title": "21",
-			"image": "https://i.pinimg.com/736x/a4/19/85/a41985705ff7e62903a44a1848029318.jpg",
-			"lock": true
-		},
-		{
-			"id": 22,
-			"name_category": "Ganesha",
-			"title": "22",
-			"image": "https://i.pinimg.com/564x/c7/b9/69/c7b969c1b5bbe7f13c479e073f40240d.jpg",
-			"lock": true
-		},
-		{
-			"id": 23,
-			"name_category": "Ganesha",
-			"title": "23",
-			"image": "https://i.pinimg.com/564x/e8/7b/7d/e87b7dec5241ff8b6fb8070e3bb63344.jpg",
-			"lock": true
-		},
-		{
-			"id": 24,
-			"name_category": "Ganesha",
-			"title": "24",
-			"image": "https://i.pinimg.com/564x/46/17/74/461774da4a68f316c488510f0a77e06b.jpg",
-			"lock": true
-		},
-		{
-			"id": 25,
-			"name_category": "Ganesha",
-			"title": "25",
-			"image": "https://i.pinimg.com/736x/31/34/d2/3134d2fcf369097a6b22ee0760be711e.jpg",
-			"lock": true
-		},
-		{
-			"id": 26,
-			"name_category": "Ganesha",
-			"title": "26",
-			"image": "https://i.pinimg.com/564x/14/ae/6e/14ae6eee5177f96b9865f1db8723ae23.jpg",
-			"lock": true
-		},
-		{
-			"id": 27,
-			"name_category": "Ganesha",
-			"title": "27",
-			"image": "https://i.pinimg.com/564x/14/b5/ab/14b5abe8228880f6ad18e771a8294759.jpg",
-			"lock": true
-		},
-		{
-			"id": 28,
-			"name_category": "Ganesha",
-			"title": "28",
-			"image": "https://i.pinimg.com/564x/cf/b8/6d/cfb86dee79b27442414506b00dfb0af5.jpg",
-			"lock": true
-		},
-		{
-			"id": 29,
-			"name_category": "Ganesha",
-			"title": "29",
-			"image": "https://i.pinimg.com/736x/82/27/09/82270958968dd16ba5a030e7dea6eed2.jpg",
-			"lock": true
-		},
-		{
-			"id": 30,
-			"name_category": "Ganesha",
-			"title": "30",
-			"image": "https://i.pinimg.com/564x/8b/e3/b9/8be3b95d9a9807a3bdf2c89da2873210.jpg",
-			"lock": true
-		},
-		{
-			"id": 31,
-			"name_category": "Ganesha",
-			"title": "31",
-			"image": "https://i.pinimg.com/736x/88/0b/70/880b70215d095bc5f6e86b9930a28a45.jpg",
-			"lock": true
-		},
-		{
-			"id": 32,
-			"name_category": "Ganesha",
-			"title": "32",
-			"image": "https://i.pinimg.com/564x/c8/15/08/c81508a02a1a2fa6827faff9623736e1.jpg",
-			"lock": true
-		},
-		{
-			"id": 33,
-			"name_category": "Ganesha",
-			"title": "33",
-			"image": "https://i.pinimg.com/564x/69/92/f7/6992f772ffda8234165de50c9c346673.jpg",
-			"lock": true
-		},
-		{
-			"id": 34,
-			"name_category": "Ganesha",
-			"title": "34",
-			"image": "https://i.pinimg.com/564x/40/4f/32/404f32a7f1e8d578642d98d048b67fde.jpg",
-			"lock": true
-		},
-		{
-			"id": 35,
-			"name_category": "Ganesha",
-			"title": "35",
-			"image": "https://i.pinimg.com/736x/4a/ec/c8/4aecc89156380c44b3f9880bfb05c8b7.jpg",
-			"lock": true
-		},
-		{
-			"id": 36,
-			"name_category": "Ganesha",
-			"title": "36",
-			"image": "https://i.pinimg.com/736x/95/7b/33/957b3393364c95846d9ff0d9cb9eb644.jpg",
-			"lock": false
-		},
-		{
-			"id": 37,
-			"name_category": "Ganesha",
-			"title": "37",
-			"image": "https://i.pinimg.com/564x/14/b3/5f/14b35ffc47555195a651fb487ccdcb3c.jpg",
-			"lock": false
-		},
-		{
-			"id": 38,
-			"name_category": "Ganesha",
-			"title": "38",
-			"image": "https://i.pinimg.com/564x/53/97/48/53974808b69c4c144b7506283a945c9c.jpg",
-			"lock": false
-		},
-		{
-			"id": 39,
-			"name_category": "Ganesha",
-			"title": "39",
-			"image": "https://i.pinimg.com/736x/75/d1/81/75d1811a18c83c9935469d5e7324c823.jpg",
-			"lock": false
-		},
-		{
-			"id": 40,
-			"name_category": "Ganesha",
-			"title": "40",
-			"image": "https://i.pinimg.com/564x/61/72/5c/61725cefd337049bcd219a72badbd0f2.jpg",
-			"lock": false
-		},
-		{
-			"id": 41,
-			"name_category": "Ganesha",
-			"title": "41",
-			"image": "https://i.pinimg.com/564x/ef/54/15/ef541519bfbeaa68465377fc4ecd0a13.jpg",
-			"lock": false
-		},
-		{
-			"id": 42,
-			"name_category": "Ganesha",
-			"title": "42",
-			"image": "https://i.pinimg.com/564x/73/a0/7b/73a07bf1b4927100e063d4841458079c.jpg",
-			"lock": false
-		},
-		{
-			"id": 43,
-			"name_category": "Ganesha",
-			"title": "43",
-			"image": "https://i.pinimg.com/564x/dc/68/99/dc6899f6d6394fe622fb3cceae1c1e8e.jpg",
-			"lock": false
-		},
-		{
-			"id": 44,
-			"name_category": "Ganesha",
-			"title": "44",
-			"image": "https://i.pinimg.com/564x/6a/1e/8e/6a1e8e1c5ee6fa8f80ed79cf0ebc1398.jpg",
-			"lock": false
-		},
-		{
-			"id": 45,
-			"name_category": "Ganesha",
-			"title": "45",
-			"image": "https://i.pinimg.com/736x/c3/13/e9/c313e9f47b80b7dd179fdaddc6bf6a2c.jpg",
-			"lock": false
-		},
-		{
-			"id": 46,
-			"name_category": "Ganesha",
-			"title": "46",
-			"image": "https://i.pinimg.com/736x/9e/ae/3f/9eae3f0c3c1a91f580cb2a6d67119637.jpg",
-			"lock": false
-		},
-		{
-			"id": 47,
-			"name_category": "Ganesha",
-			"title": "47",
-			"image": "https://i.pinimg.com/564x/a8/c8/ce/a8c8ce4aa7e5655fe8e9f3c514335932.jpg",
-			"lock": false
-		},
-		{
-			"id": 48,
-			"name_category": "Ganesha",
-			"title": "48",
-			"image": "https://i.pinimg.com/564x/2a/49/f8/2a49f80fa13463b7906784bae646faf6.jpg",
-			"lock": false
-		},
-		{
-			"id": 49,
-			"name_category": "Ganesha",
-			"title": "49",
-			"image": "https://i.pinimg.com/564x/7c/b7/71/7cb771931b7dff76d704e5da0fc7ed9e.jpg",
-			"lock": false
-		},
-		{
-			"id": 50,
-			"name_category": "Ganesha",
-			"title": "50",
-			"image": "https://i.pinimg.com/564x/50/c0/cf/50c0cfd7c52ab3b9e1e08d0dbb78382d.jpg",
-			"lock": false
-		},
-		{
-			"id": 51,
-			"name_category": "Ganesha",
-			"title": "51",
-			"image": "https://i.pinimg.com/564x/2f/ad/6d/2fad6d5f176eb0416fdef790712356a1.jpg",
-			"lock": false
-		},
-		{
-			"id": 52,
-			"name_category": "Ganesha",
-			"title": "52",
-			"image": "https://i.pinimg.com/736x/85/5a/24/855a24cbb5916116bba02994ffd69585.jpg",
-			"lock": false
-		},
-		{
-			"id": 53,
-			"name_category": "Ganesha",
-			"title": "53",
-			"image": "https://i.pinimg.com/736x/d1/d0/67/d1d06722f6194a7328ecdfcc8469cde4.jpg",
-			"lock": false
-		},
-		{
-			"id": 54,
-			"name_category": "Ganesha",
-			"title": "54",
-			"image": "https://i.pinimg.com/736x/86/17/3a/86173afbbfbdbbe66a7bfb578676a93d.jpg",
-			"lock": false
-		},
-		{
-			"id": 55,
-			"name_category": "Ganesha",
-			"title": "55",
-			"image": "https://i.pinimg.com/736x/84/1c/2b/841c2b5b0ccddb4b3d534d56c573b8c6.jpg",
-			"lock": false
-		},
-		{
-			"id": 56,
-			"name_category": "Ganesha",
-			"title": "56",
-			"image": "https://i.pinimg.com/736x/e7/7c/5f/e77c5fd79509c76fa3d6f7497a652e49.jpg",
-			"lock": false
-		},
-		{
-			"id": 57,
-			"name_category": "Ganesha",
-			"title": "57",
-			"image": "https://i.pinimg.com/736x/3e/98/b1/3e98b187e862577730cc7aeb25603a42.jpg",
-			"lock": false
-		},
-		{
-			"id": 58,
-			"name_category": "Ganesha",
-			"title": "58",
-			"image": "https://i.pinimg.com/564x/02/a0/cf/02a0cf379aa9a744fb757739051fcdf9.jpg",
-			"lock": false
-		},
-		{
-			"id": 59,
-			"name_category": "Ganesha",
-			"title": "59",
-			"image": "https://i.pinimg.com/564x/0a/9a/1e/0a9a1ea7155b809968a181408b767b8a.jpg",
-			"lock": false
-		},
-		{
-			"id": 60,
-			"name_category": "Ganesha",
-			"title": "60",
-			"image": "https://i.pinimg.com/564x/36/01/29/360129507539f43aaaf2d93c7ca90738.jpg",
-			"lock": false
-		},
-		{
-			"id": 61,
-			"name_category": "Ganesha",
-			"title": "61",
-			"image": "https://i.pinimg.com/564x/ca/67/93/ca67936abdaba5ec67631b6b32fc6194.jpg",
-			"lock": false
-		},
-		{
-			"id": 62,
-			"name_category": "Ganesha",
-			"title": "62",
-			"image": "https://i.pinimg.com/564x/1b/1c/cc/1b1ccc0641221e5d431ef5dde683402d.jpg",
-			"lock": false
-		},
-		{
-			"id": 63,
-			"name_category": "Ganesha",
-			"title": "63",
-			"image": "https://i.pinimg.com/564x/61/28/52/61285236e954cbb82787949d5aba7704.jpg",
-			"lock": false
-		},
-		{
-			"id": 64,
-			"name_category": "Ganesha",
-			"title": "64",
-			"image": "https://i.pinimg.com/736x/8f/8c/cc/8f8ccc3568b14403e2e7f903220d1934.jpg",
-			"lock": false
-		},
-		{
-			"id": 65,
-			"name_category": "Ganesha",
-			"title": "65",
-			"image": "https://i.pinimg.com/564x/60/3d/7d/603d7d601d3096a16204a8333b072053.jpg",
-			"lock": false
-		},
-		{
-			"id": 66,
-			"name_category": "Ganesha",
-			"title": "66",
-			"image": "https://i.pinimg.com/736x/e8/f4/67/e8f467e6c550135d1b7cc387e5a873b1.jpg",
-			"lock": false
-		},
-		{
-			"id": 67,
-			"name_category": "Ganesha",
-			"title": "67",
-			"image": "https://i.pinimg.com/736x/6b/69/45/6b694556746fe613533e848009c1367c.jpg",
-			"lock": false
-		},
-		{
-			"id": 68,
-			"name_category": "Ganesha",
-			"title": "68",
-			"image": "https://i.pinimg.com/736x/06/a1/e9/06a1e935156c79700b2b17cb4e3c72ff.jpg",
-			"lock": false
-		},
-		{
-			"id": 69,
-			"name_category": "Ganesha",
-			"title": "69",
-			"image": "https://i.pinimg.com/736x/5d/db/78/5ddb782e0bae2911db229a39785a9930.jpg",
-			"lock": false
-		},
-		{
-			"id": 70,
-			"name_category": "Ganesha",
-			"title": "70",
-			"image": "https://i.pinimg.com/736x/fc/94/4b/fc944b2ba8072f82f82b220425c624ab.jpg",
-			"lock": false
-		},
-		{
-			"id": 71,
-			"name_category": "Ganesha",
-			"title": "71",
-			"image": "https://i.pinimg.com/564x/d2/1d/6f/d21d6fdc2f3ebcde7a5cdb21ad13a84b.jpg",
-			"lock": false
-		},
-		{
-			"id": 72,
-			"name_category": "Ganesha",
-			"title": "72",
-			"image": "https://i.pinimg.com/564x/3c/d3/cf/3cd3cfa8f41a5336d893df5577cb20c4.jpg",
-			"lock": false
-		},
-		{
-			"id": 73,
-			"name_category": "Ganesha",
-			"title": "73",
-			"image": "https://i.pinimg.com/564x/03/76/4a/03764a6e0f9e13e39b0c0b282c2799d0.jpg",
-			"lock": false
-		},
-		{
-			"id": 74,
-			"name_category": "Ganesha",
-			"title": "74",
-			"image": "https://i.pinimg.com/564x/c5/1e/80/c51e8012496cd185d503696a8d40d007.jpg",
-			"lock": false
-		},
-		{
-			"id": 75,
-			"name_category": "Ganesha",
-			"title": "75",
-			"image": "https://i.pinimg.com/564x/39/58/a9/3958a95fb7dd388ef2a8b8195749789b.jpg",
-			"lock": false
-		},
-		{
-			"id": 76,
-			"name_category": "Ganesha",
-			"title": "76",
-			"image": "https://i.pinimg.com/736x/24/c5/e6/24c5e612b9036a6c7d309b5c07ccae05.jpg",
-			"lock": false
-		},
-		{
-			"id": 77,
-			"name_category": "Ganesha",
-			"title": "77",
-			"image": "https://i.pinimg.com/564x/2a/67/f1/2a67f1c146b0feb1e5e4de2fa1a8c91e.jpg",
-			"lock": false
-		},
-		{
-			"id": 78,
-			"name_category": "Ganesha",
-			"title": "78",
-			"image": "https://i.pinimg.com/564x/d6/00/0e/d6000ebf759d49a889fc35d56dc04da1.jpg",
-			"lock": false
-		},
-		{
-			"id": 79,
-			"name_category": "Ganesha",
-			"title": "79",
-			"image": "https://i.pinimg.com/736x/7d/28/b0/7d28b07a47ae02dcd8951d5a7d7b6094.jpg",
-			"lock": false
-		},
-		{
-			"id": 80,
-			"name_category": "Ganesha",
-			"title": "80",
-			"image": "https://i.pinimg.com/736x/b8/f0/40/b8f040585a11bdf750158163fa5c671d.jpg",
-			"lock": false
-		},
-		{
-			"id": 81,
-			"name_category": "Ganesha",
-			"title": "81",
-			"image": "https://i.pinimg.com/564x/b6/54/66/b65466eee4a1d4197e7b13f6986fd645.jpg",
-			"lock": false
-		},
-		{
-			"id": 82,
-			"name_category": "Ganesha",
-			"title": "82",
-			"image": "https://i.pinimg.com/564x/04/c3/e8/04c3e8f6be5b2de50197cfcff739aada.jpg",
-			"lock": false
-		},
-		{
-			"id": 83,
-			"name_category": "Ganesha",
-			"title": "83",
-			"image": "https://i.pinimg.com/564x/10/52/26/1052268681e38b2c07b57a59f1e0f674.jpg",
-			"lock": false
-		},
-		{
-			"id": 84,
-			"name_category": "Ganesha",
-			"title": "84",
-			"image": "https://i.pinimg.com/564x/f7/9f/a6/f79fa62e6c72045d61988405ed0b0b43.jpg",
-			"lock": false
-		},
-		{
-			"id": 85,
-			"name_category": "Ganesha",
-			"title": "85",
-			"image": "https://i.pinimg.com/564x/13/1b/36/131b3625a2f31bbbf19f1a5b6a33be06.jpg",
-			"lock": false
-		},
-		{
-			"id": 86,
-			"name_category": "Ganesha",
-			"title": "86",
-			"image": "https://i.pinimg.com/564x/89/0d/0e/890d0ea4922f4e8a45d0a480bbf1ba58.jpg",
-			"lock": false
-		},
-		{
-			"id": 87,
-			"name_category": "Ganesha",
-			"title": "87",
-			"image": "https://i.pinimg.com/564x/71/88/43/718843ece36b1b1d11223ef39b854835.jpg",
-			"lock": false
-		},
-		{
-			"id": 88,
-			"name_category": "Ganesha",
-			"title": "88",
-			"image": "https://i.pinimg.com/564x/48/62/c7/4862c720fdd3218a60859d8f835e4f88.jpg",
-			"lock": false
-		},
-		{
-			"id": 89,
-			"name_category": "Ganesha",
-			"title": "89",
-			"image": "https://i.pinimg.com/564x/f6/2b/e1/f62be1c4a9aebc76d062886e8138f3df.jpg",
-			"lock": false
-		},
-		{
-			"id": 90,
-			"name_category": "Ganesha",
-			"title": "90",
-			"image": "https://i.pinimg.com/564x/96/c5/95/96c595c78976d332382d2ccb581df124.jpg",
-			"lock": false
-		},
-		{
-			"id": 91,
-			"name_category": "Ganesha",
-			"title": "91",
-			"image": "https://i.pinimg.com/564x/88/0d/f7/880df73f7099daedbf5cda731dc49ba1.jpg",
-			"lock": false
-		},
-		{
-			"id": 92,
-			"name_category": "Ganesha",
-			"title": "92",
-			"image": "https://i.pinimg.com/564x/71/d3/75/71d375ea18b51a1f28f725d4b0185511.jpg",
-			"lock": false
-		},
-		{
-			"id": 93,
-			"name_category": "Ganesha",
-			"title": "93",
-			"image": "https://i.pinimg.com/564x/7d/e6/df/7de6df78f3d0720d45b441ec015ffea8.jpg",
-			"lock": false
-		},
-		{
-			"id": 94,
-			"name_category": "Ganesha",
-			"title": "94",
-			"image": "https://i.pinimg.com/564x/a4/a5/d8/a4a5d84f36b08f231c427d88b24960a6.jpg",
-			"lock": false
-		}
-		
-	]
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Ganesha",
+      "wallpaper_url": "https://i.pinimg.com/564x/08/9a/5e/089a5ef26fb0039b85d4c948f1b9dc64.jpg"
+    }
+    
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/78/a9/95/78a995321014eb7f1780bff962870f63.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/75/a6/fe/75a6fe4e800452891980b861620f7751.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/de/38/c6de3849b982ca1db92c4d40985e43b1.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/50/81/7d5081862f785548a54a048621a31f6c.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/08/9a/5e/089a5ef26fb0039b85d4c948f1b9dc64.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/96/1c/1d/961c1d78dd8e9ea010e201002e062e66.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1e/e9/f9/1ee9f9dc1a9f70475dc422e29c6b2dc8.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/d2/47/fdd247e818bd84155c6eba097025686e.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/dc/81/2fdc81d63aed9618de19fc88df4961e1.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/eb/89/e3eb8929f92a6c7a5533a3077c4eaa88.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/63/78/c1/6378c159b6786db15779e2de6602485e.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/ec/63/e9ec63780506fdc87fe2314e1f4d0e17.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/bb/b2/b1bbb254cb7f8bd983c1a35f82dba271.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/06/fe/2d/06fe2d7bdddc4f42e70f468e1147f1a2.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/33/56/20/335620ae468c40755124737a255ab1fa.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1f/ce/37/1fce37015dd1f197b76bfc25afe1aea7.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/76/58/e6/7658e68528620508ed02b0769ce2a86f.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/26/cb/5f/26cb5f607d58780bc862b254373bf7f1.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/a3/df/b0a3df56c7e8e2ed76f484e0599b82fe.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/2b/63/e52b63a86bd140683806235aed81cdda.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a4/19/85/a41985705ff7e62903a44a1848029318.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/b9/69/c7b969c1b5bbe7f13c479e073f40240d.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/7b/7d/e87b7dec5241ff8b6fb8070e3bb63344.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/46/17/74/461774da4a68f316c488510f0a77e06b.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/31/34/d2/3134d2fcf369097a6b22ee0760be711e.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/14/ae/6e/14ae6eee5177f96b9865f1db8723ae23.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/14/b5/ab/14b5abe8228880f6ad18e771a8294759.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/b8/6d/cfb86dee79b27442414506b00dfb0af5.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/82/27/09/82270958968dd16ba5a030e7dea6eed2.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/e3/b9/8be3b95d9a9807a3bdf2c89da2873210.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/88/0b/70/880b70215d095bc5f6e86b9930a28a45.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/15/08/c81508a02a1a2fa6827faff9623736e1.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/69/92/f7/6992f772ffda8234165de50c9c346673.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/40/4f/32/404f32a7f1e8d578642d98d048b67fde.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/4a/ec/c8/4aecc89156380c44b3f9880bfb05c8b7.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/95/7b/33/957b3393364c95846d9ff0d9cb9eb644.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/14/b3/5f/14b35ffc47555195a651fb487ccdcb3c.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/53/97/48/53974808b69c4c144b7506283a945c9c.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/75/d1/81/75d1811a18c83c9935469d5e7324c823.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/61/72/5c/61725cefd337049bcd219a72badbd0f2.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/54/15/ef541519bfbeaa68465377fc4ecd0a13.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/73/a0/7b/73a07bf1b4927100e063d4841458079c.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/68/99/dc6899f6d6394fe622fb3cceae1c1e8e.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/1e/8e/6a1e8e1c5ee6fa8f80ed79cf0ebc1398.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c3/13/e9/c313e9f47b80b7dd179fdaddc6bf6a2c.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9e/ae/3f/9eae3f0c3c1a91f580cb2a6d67119637.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/c8/ce/a8c8ce4aa7e5655fe8e9f3c514335932.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/49/f8/2a49f80fa13463b7906784bae646faf6.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/b7/71/7cb771931b7dff76d704e5da0fc7ed9e.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/50/c0/cf/50c0cfd7c52ab3b9e1e08d0dbb78382d.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/ad/6d/2fad6d5f176eb0416fdef790712356a1.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/85/5a/24/855a24cbb5916116bba02994ffd69585.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d1/d0/67/d1d06722f6194a7328ecdfcc8469cde4.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/86/17/3a/86173afbbfbdbbe66a7bfb578676a93d.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/84/1c/2b/841c2b5b0ccddb4b3d534d56c573b8c6.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e7/7c/5f/e77c5fd79509c76fa3d6f7497a652e49.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3e/98/b1/3e98b187e862577730cc7aeb25603a42.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/02/a0/cf/02a0cf379aa9a744fb757739051fcdf9.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/9a/1e/0a9a1ea7155b809968a181408b767b8a.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/36/01/29/360129507539f43aaaf2d93c7ca90738.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/67/93/ca67936abdaba5ec67631b6b32fc6194.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/1c/cc/1b1ccc0641221e5d431ef5dde683402d.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/61/28/52/61285236e954cbb82787949d5aba7704.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/8f/8c/cc/8f8ccc3568b14403e2e7f903220d1934.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/60/3d/7d/603d7d601d3096a16204a8333b072053.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e8/f4/67/e8f467e6c550135d1b7cc387e5a873b1.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6b/69/45/6b694556746fe613533e848009c1367c.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/06/a1/e9/06a1e935156c79700b2b17cb4e3c72ff.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5d/db/78/5ddb782e0bae2911db229a39785a9930.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/fc/94/4b/fc944b2ba8072f82f82b220425c624ab.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/1d/6f/d21d6fdc2f3ebcde7a5cdb21ad13a84b.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/d3/cf/3cd3cfa8f41a5336d893df5577cb20c4.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/03/76/4a/03764a6e0f9e13e39b0c0b282c2799d0.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/1e/80/c51e8012496cd185d503696a8d40d007.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/39/58/a9/3958a95fb7dd388ef2a8b8195749789b.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/24/c5/e6/24c5e612b9036a6c7d309b5c07ccae05.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/67/f1/2a67f1c146b0feb1e5e4de2fa1a8c91e.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/00/0e/d6000ebf759d49a889fc35d56dc04da1.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7d/28/b0/7d28b07a47ae02dcd8951d5a7d7b6094.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b8/f0/40/b8f040585a11bdf750158163fa5c671d.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/54/66/b65466eee4a1d4197e7b13f6986fd645.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/04/c3/e8/04c3e8f6be5b2de50197cfcff739aada.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/10/52/26/1052268681e38b2c07b57a59f1e0f674.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/9f/a6/f79fa62e6c72045d61988405ed0b0b43.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/13/1b/36/131b3625a2f31bbbf19f1a5b6a33be06.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/89/0d/0e/890d0ea4922f4e8a45d0a480bbf1ba58.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/71/88/43/718843ece36b1b1d11223ef39b854835.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/48/62/c7/4862c720fdd3218a60859d8f835e4f88.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/2b/e1/f62be1c4a9aebc76d062886e8138f3df.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/96/c5/95/96c595c78976d332382d2ccb581df124.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/88/0d/f7/880df73f7099daedbf5cda731dc49ba1.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/71/d3/75/71d375ea18b51a1f28f725d4b0185511.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/e6/df/7de6df78f3d0720d45b441ec015ffea8.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Ganesha",
+      "wallpaper_name": "LBG94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/a5/d8/a4a5d84f36b08f231c427d88b24960a6.jpg"
+    }
+  ]
 }
